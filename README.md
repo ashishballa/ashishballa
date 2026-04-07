@@ -1,22 +1,59 @@
-# Hi, I'm Ashish Balla 👋
+Hi, I'm Ashish Balla 👋
+🚀 Senior Full-Stack Engineer | AI / LLM Systems | React | Node.js
 
-## Front-End Developer | React | TypeScript | Flutter
+🔧 Currently: Building production-grade AI + full-stack systems at Optima Communications (Scotiabank platform)
+💼 Experience: 5+ years in full-stack engineering, distributed systems, and AI-powered applications
 
-🔧 **Currently working at:** Optima Communications International Inc. (Toronto, ON)
+🧠 What I Do
+Architect and build scalable full-stack applications (React + TypeScript + Node.js / NestJS)
+Design LLM-powered systems using LangChain, LangGraph, and agentic workflows
+Develop high-performance backend services (event-driven, microservices, REST APIs)
+Build RAG pipelines & AI workflows with vector databases (Pinecone)
+Lead end-to-end engineering lifecycle — design → development → deployment → observability
+⚡ Impact
+🚀 Reduced API latency by 30% and backend duplication by 40%
+📊 Built chatbot platform handling 5,000+ daily interactions
+⚙️ Delivered systems with 99.9% SLA reliability
+📉 Reduced workflow processing latency by 35% across 50,000+ records
+🧪 Maintained 80–85%+ test coverage with automated CI/CD pipelines
+👨‍🏫 Mentored engineers, led code reviews, and drove engineering best practices
+🛠 Tech Stack
 
-💼 **Experience:** 3+ years building responsive, accessible web and mobile applications
+Frontend:
+React • TypeScript • Redux • Tailwind • Dynamic Forms
 
-🚀 **Specialties:**
-- React & TypeScript applications with 90+ Lighthouse scores
-- WCAG 2.1 compliant interfaces (100% accessibility compliance)
-- Enterprise-level campaigns (50+ projects including Scotiabank, Chubb Life)
-- CI/CD pipelines and AWS deployment
-- Flutter cross-platform mobile development
+Backend:
+Node.js • NestJS • Express • FastAPI • REST APIs • Event-Driven Systems
 
-📈 **Impact:** Improved platform performance by 30%, reduced development cycles by 40%
+AI / LLM:
+LangChain • LangGraph • OpenAI API • Anthropic API • RAG • Agentic Workflows • Text-to-SQL
 
-🎯 **Currently learning:** Advanced automation in Python
+Databases:
+PostgreSQL • DynamoDB • Redis • Pinecone
 
-🎮 **Looking to collaborate on:** Gaming skillsets and open-source projects
+Cloud & Infra:
+AWS (Lambda, ECS, EKS, API Gateway, S3, SQS) • Docker • Kubernetes • Terraform • AWS CDK
 
-📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/ashish-balla-400742169/) | [Twitter](https://twitter.com/renderleaker)
+Observability & DevOps:
+CloudWatch • Datadog • Prometheus • Grafana • GitHub Actions • CI/CD
+
+🧪 Key Projects
+🧠 Datasense — Text-to-SQL AI Agent
+Built LLM-powered agent converting natural language → SQL
+Designed modular agent architecture with tool-use workflows
+Developed FastAPI backend with query execution pipeline
+🤖 Agentic AI Platform
+Multi-agent system using LangGraph + MCP servers
+Built RAG pipeline with Pinecone for semantic retrieval
+Developed React chatbot UI with streaming LLM responses
+🌱 Currently Exploring
+Advanced multi-agent systems & orchestration (LangGraph)
+AI system observability & evaluation pipelines
+Scalable AI product architecture
+🎯 Open To
+Senior Full-Stack / AI Engineering roles
+LLM / Agentic AI platform teams
+High-impact product engineering environments
+📫 Connect With Me
+💼 LinkedIn: https://linkedin.com/in/venkatashishb
+📧 Email: venkatashishb@gmail.com
